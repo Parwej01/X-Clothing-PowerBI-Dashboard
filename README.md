@@ -46,4 +46,4 @@ Screenshots and logic are provided for demonstration purposes.
 
 ## 👤 Author
 **Parwej**  
-Aspiring Data Analyst | Power BI | SQL | DAX
+Data Analyst | Power BI | SQL | DAX 
